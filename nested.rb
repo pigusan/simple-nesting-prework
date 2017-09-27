@@ -1,6 +1,7 @@
 require 'pry'
 
 def hopper
+	  binding.pry
 	programmer_hash =
  		{
         :grace_hopper => {
